@@ -26,3 +26,5 @@ Run bash run_iu_rl.sh to finetuning the model on the IU X-Ray dataset.
 
 Run bash run_mimic_rl.sh to finetuning the model on the MIMIC-CXR dataset.
 
+Note that: The variance of the experimental results is large when training with Reinforcement Learning on IU X-Ray dataset. 
+
