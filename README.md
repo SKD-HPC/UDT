@@ -20,7 +20,7 @@ Run bash run_mimic_cxr.sh to train a model on the MIMIC-CXR data.
 
 Run Reinforcement Learning:
 
-download the RL-UDT.rar and prepare the data, evaluation metrics, and pre-trained models (Under Cross-Entropy Loss)
+Download the RL-UDT.rar and prepare the dataset, the evaluation metrics, and the pre-trained models (Under Cross-Entropy Loss)
 
 Run bash run_iu_rl.sh to finetuning the model on the IU X-Ray dataset.
 
